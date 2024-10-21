@@ -55,7 +55,9 @@ input[type="radio"],
 input[type="checkbox"] {
     margin-right: 10px;
 }
-
+.recommend{
+    margin-top: 10px;
+}
 textarea {
     height: 100px;
 }
